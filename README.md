@@ -8,13 +8,6 @@ currently my interests include:
 - [deno](https://deno.land)
 - [rust](https://www.rust-lang.org/)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=getchoo&show_icons=true&theme=transparent&hide_title=true&hide_border=true&hide=stars&include_all_commits=true"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=getchoo&theme=transparent&hide_title=true&hide_border=true" />
-</a>
-
 ### languages i know
 
 <a href="https://github.com/tandpfun/skill-icons">
@@ -24,13 +17,15 @@ currently my interests include:
 ### tools i use
 
 <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=cloudflare,deno,discord,docker,fastapi,flask,git,gtk,github,githubactions,linux,md,mastodon,neovim,nginx,nodejs,qt,regex,sass,stackoverflow,tailwind,vscode,workers">
+    <img src="https://skillicons.dev/icons?i=cloudflare,deno,discord,docker,fastapi,flask,git,github,githubactions,linux,md,mastodon,neovim,nginx,nodejs,sass,stackoverflow,tailwind,vscode,workers">
 </a>
 
 ### devices
 
-[![distro: nixos](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&style=for-the-badge&logoColor=7EBAE4)](https://nixos.org)
-[![windows](https://img.shields.io/badge/windows-black?logo=windows&style=for-the-badge)](https://microsoft.com)
+[![cpu: ryzen 5600x](https://img.shields.io/badge/Ryzen%205600x-ed1c24?logo=amd&style=for-the-badge&logoColor=white)](https://amd.com)
+[![gpu: gtx 1660 super](https://img.shields.io/badge/GTX%201660%20Super-76b900?logo=nvidia&style=for-the-badge&logoColor=white)](https://nvidia.com)
+[![os: windows](https://img.shields.io/badge/windows-black?logo=windows&style=for-the-badge)](https://microsoft.com)
+[![os: nixos](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&style=for-the-badge&logoColor=7EBAE4)](https://nixos.org)
 [![de: gnome](https://img.shields.io/badge/gnome-1c71d8?logo=gnome&style=for-the-badge&logoColor=f6f5f4)](https://gnome.org)
 
 ### notable projects/repositories i've contributed to
