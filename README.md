@@ -1,24 +1,21 @@
 ## hi i'm seth!
 
-a big fan of free software. i like to contribute to projects i personally use, or sometimes to just help friends :)
+a big fan of free software, who likes helping out where possible.
 
-currently my interests include:
+you might know me for a few linux packages i maintain, or maybe as a maintainer for [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) :p
 
-- [nix](https://nixos.org)
-- [deno](https://deno.land)
-- [rust](https://www.rust-lang.org/)
+### some of my favorite tools
 
-### languages i know
-
-<a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,html,java,js,lua,nim,powershell,py,rust,sass,ts">
-</a>
-
-### tools i use
-
-<a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=cloudflare,deno,discord,docker,fastapi,flask,git,github,githubactions,linux,md,mastodon,neovim,nginx,nodejs,sass,stackoverflow,tailwind,vscode,workers">
-</a>
+![Deno](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/deno_vector.svg)
+![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-singular_vector.svg)
+![git](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/git_vector.svg)
+![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/github_vector.svg)
+![markdown](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/built-with/markdown_vector.svg)
+![mastodon-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/mastodon-singular_vector.svg)
+![nix](https://raw.githubusercontent.com/sakecode/nix-figma-svgs/main/Cozy_Minimal_Nix_Figma.svg)
+![spotify](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/spotify_vector.svg)
+![steam](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/steam_vector.svg)
+![typescript](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy-minimal/built-with/typescript_vector.svg)
 
 ### devices
 
@@ -28,7 +25,7 @@ currently my interests include:
 [![os: nixos](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&style=for-the-badge&logoColor=7EBAE4)](https://nixos.org)
 [![de: gnome](https://img.shields.io/badge/gnome-1c71d8?logo=gnome&style=for-the-badge&logoColor=f6f5f4)](https://gnome.org)
 
-### notable projects/repositories i've contributed to
+### some cool projects i've contributed to
 
 - [PrismLauncher](https://github.com/PrismLauncher)
 - [nixpkgs](https://github.com/NixOS/nixpkgs)
